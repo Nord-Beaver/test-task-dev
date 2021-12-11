@@ -1,2 +1,6 @@
-# test-task-pixi
-Assets for test task
+# НЕ для соискателей
+# static-ref - ветка для внутреннего использования
+
+В этой ветке хранятся публичные настройки конфигурации для деплоя референсного приложения.
+
+Подробнее в [специальном readme](https://github.com/Nord-Beaver/test-task-dev/edit/static-ref/public)
